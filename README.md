@@ -803,7 +803,7 @@
 
         <div id="data-success-modal" class="modal">
             <div class="modal-content">
-                <h2>🎉Congratulations</h2>
+                <h2>Congratulations</h2>
                 <p>Data Buy Successfully was sent to your phone number</p>
                 <button id="data-ok-btn" class="ok-btn">OK</button>
             </div>
